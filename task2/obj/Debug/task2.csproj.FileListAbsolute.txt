@@ -1,0 +1,7 @@
+D:\Users\ohood\source\repos\task2\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+D:\Users\ohood\source\repos\task2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+D:\Users\ohood\source\repos\task2\task2\bin\Debug\task2.exe.config
+D:\Users\ohood\source\repos\task2\task2\bin\Debug\task2.exe
+D:\Users\ohood\source\repos\task2\task2\bin\Debug\task2.pdb
+D:\Users\ohood\source\repos\task2\task2\obj\Debug\task2.exe
+D:\Users\ohood\source\repos\task2\task2\obj\Debug\task2.pdb
